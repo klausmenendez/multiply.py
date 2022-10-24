@@ -10,4 +10,4 @@ def multiply(num1,num2):
    else:
     return num1 + multiply(num1,num2-1)
 
-print(multiply(6,8))
+# print(multiply(6,8))
